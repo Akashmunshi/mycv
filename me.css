@@ -1,0 +1,77 @@
+*{text-align: center;
+    margin: 0px;
+    padding: 0px;}
+
+.all{height:1000px;
+	 width: 1400px;
+	 background-color: #79685E;
+	 
+}
+
+.left{background-color: #00515A;
+	  width: 400px;
+	  height:1000px;
+	  float: left;
+     }
+
+.photo{height: 150px;
+   width: 150px;
+  border-radius: 30px;}
+
+
+h1{color: white;
+ font-size: 20px;
+}
+h4{color: white;}
+
+.menu ul li{ width: 130px;
+              line-height: 50px;
+              font-size: 20px;
+              list-style: none;
+
+    }
+.menu ul li a{color: white;
+              text-decoration: none;
+              display: block;
+              list-style: none;
+              
+		   }
+.menu ul li a:hover{background:#F95353;
+	              width: 200px;
+	              text-align:fixed;
+	                
+}
+
+
+.right{
+	background-color:#637C76;
+	  width: 1000px;
+	  height:1000px;
+	  float: left;
+
+}
+hr{background-color: #27B4D3;
+height: 5px;}
+.mt{width: 1000px;
+	background-image: url("img/1280px-Greifensee_ZH_-_See_IMG_2467.jpg");
+	height: 300PX;
+}
+big{font-size: 52px;
+  color: white;}
+
+.phone{float: left;
+	   width: 400px;
+}
+.phone p{line-height: 30px;
+        font-size: 20px;
+
+        }
+.mobile{float: right;
+	    width: 600PX;
+        }
+ .mobile p{line-height: 50px;
+ 	       font-size: 20px;
+
+ }
+ button { border: 5px solid #506DC4;
+ 	border-radius: 30px;}
